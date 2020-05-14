@@ -19,6 +19,8 @@ The app requires the following libraries to run - plotly, ggplot2, stringr, leaf
 
 Additionally, helper functions for creating the input table and finding the classification accuracy and prediction are stored in functions.R
 
+To run the app locally, download and put the .csv and .rds files in your current directory.
+
 # Creators
 _Anusha Patel_ (https://github.com/apatel3112) & _Samarth Marudheri_ (https://github.com/Samarth2506) ; Feel free to get in touch if you have suggestions or questions on our project.
 

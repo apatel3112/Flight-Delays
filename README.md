@@ -17,6 +17,8 @@ The app features 2 trained models (Logistic Regression(LR) and Decision Tree(DT)
 # Libraries Required 
 The app requires the following libraries to run - plotly, ggplot2, stringr, leaflet, maps, geosphere, tidyverse, dplyr, shinyWidgets, tidyquant
 
+Additionally, helper functions for creating the input table and finding the classification accuracy and prediction are stored in functions.R
+
 # Creators
 _Anusha Patel_ (https://github.com/apatel3112) & _Samarth Marudheri_ (https://github.com/Samarth2506) ; Feel free to get in touch if you have suggestions or questions on our project.
 
